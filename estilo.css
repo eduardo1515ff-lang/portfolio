@@ -126,7 +126,7 @@ footer {
 }
 
 /* Media Query - Deixar a página de forma responsiva */
-@media (max-width: 820px) {
+@media screen and (max-width: 820px){
     body {
         background-color: #FFD700;
     }
